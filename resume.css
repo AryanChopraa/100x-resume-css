@@ -1,15 +1,13 @@
 body {
-    background-color: black;
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
-    color: white;
 }
 
 header {
-    background-color: #03C7FD;
-    color: black;
+    background-color: black;
+    color: white;
     text-align: center;
     padding: 20px;
 }
@@ -31,6 +29,7 @@ nav {
 nav a {
     text-decoration: none;
     margin: 0 10px;
+    color: white;
 }
 
 main {
@@ -56,15 +55,15 @@ li {
 }
 
 footer {
-    background-color: #03C7FD;
-    color: black;
+    background-color: black;
+    color: white;
     text-align: center;
     padding: 10px;
 }
 
 footer a {
     text-decoration: none;
-    color: black;
+    color: white;
     margin: 0 10px;
 }
 
